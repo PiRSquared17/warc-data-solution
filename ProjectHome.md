@@ -1,0 +1,1 @@
+an project for reading records from warc compressed or uncompressed files
